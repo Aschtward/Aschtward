@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Aschtward
-- 👀 I’m interested in everything that involves computers and programming.
-- 🌱 I’m currently learning game develophment with java.
-- 💞️ I’m looking forward to collaborate on any project that i can help.
-- 📫 You can contact me if you need.
-<!---
-Aschtward/Aschtward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi folks, my nickname is Aschtward, but my name is Leo, right now i'm probably working on my new game or just studying something, i'll upload here things that i made, even if it's simple stuff.
+
+If you see something wrong im my projects please let me know, im just a begginer.
+
+
