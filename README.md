@@ -22,8 +22,11 @@
 
 ##
 
-### Minhas redes. ###
+### Minhas redes: ###
 <div>
   <a href = "https://www.linkedin.com/in/leonardo-goulart-92575922a/" target="_blank"><image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-  [![Snake animation](https://github.com/Aschtward/Aschtward/blob/output/github-contribution-grid-snake.svg)]
+
+##
+
+[![Snake animation](https://github.com/Aschtward/Aschtward/blob/output/github-contribution-grid-snake.svg)]
